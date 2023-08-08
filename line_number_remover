@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+
+def line_remover(file_location)
+  file_content = File.readlines(file_location)
+  mutated_content = file_content.map do |line|
+    while line[0].codepoints.first.between?(48,57)
+     line = line.split('')[1..-1].join; puts line
+    end
+   line
+  end
+  mutated_content
+end
+
+def main
+  puts 'Enter the full path of file without double quotes'
+  file_location = gets.chomp
+  puts line_remover(file_location)
+end
+
+main
