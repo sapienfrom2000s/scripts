@@ -4,5 +4,4 @@ puts('Enter hash')
 hash = gets.strip
 magnet = "magnet:?xt=urn:btih:#{hash}"
 puts magnet
-File.write('/tmp/u99.txt', magnet)
-system("xclip -sel clip < /tmp/u99.txt")
+exec("echo #{magnet} | xclip -selection clipboard")
