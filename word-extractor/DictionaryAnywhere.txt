@@ -1,0 +1,279 @@
+in·stall		Place or fix (equipment or machinery) in position ready for use.
+rail		A bar or series of bars, typically fixed on upright supports, serving as part of a fence or barrier or used to hang things on.
+the		Denoting one or more people or things already mentioned or assumed to be common knowledge.
+add		Join (something) to something else so as to increase the size, number, or amount.
+main		Chief in size or importance.
+de·lete		Remove or obliterate (written or printed matter), especially by drawing a line through it or marking it with a delete sign.
+re·name		Give a new name to (someone or something).
+up·stream		In the opposite direction from that in which a stream or river flows; nearer to the source.
+or·i·gin		The point or place where something begins, arises, or is derived.
+Esc		The escape key on a computer keyboard.
+de·sign		A plan or drawing produced to show the look and function or workings of a building, garment, or other object before it is built or made.
+en·vel·ope		A flat paper container with a sealable flap, used to enclose a letter or document.
+wed·ding		A marriage ceremony, especially considered as including the associated celebrations.
+lin·er		A large luxurious passenger ship of a type formerly used on a regular line.
+met·al		A solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity (e.g., iron, gold, silver, copper, and aluminum, and alloys such as brass and steel).
+screen		A fixed or movable upright partition used to divide a room, give shelter from drafts, heat, or light, or to provide concealment or privacy.
+re·cov·er·a·ble		(of something lost) able to be regained or retrieved.
+de·vise		Plan or invent (a complex procedure, system, or mechanism) by careful thought.
+vim		Energy; enthusiasm.
+in·fect		Affect (a person, organism, cell, etc.) with a disease-causing organism.
+mod·el		A three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale than the original.
+ses·sion		A meeting of a deliberative or judicial body to conduct its business.
+start		Begin or be reckoned from a particular point in time or space.
+on		Physically in contact with and supported by (a surface).
+re·quest		An act of asking politely or formally for something.
+doc·u·men·ta·tion		Material that provides official information or evidence or that serves as a record.
+re·cent·ly		At a recent time; not long ago.
+load·ing		The application of a mechanical load or force to something.
+im·age		A representation of the external form of a person or thing in art.
+av·a·tar		A manifestation of a deity or released soul in bodily form on earth; an incarnate divine teacher.
+mes·sage		A verbal, written, or recorded communication sent to or left for a recipient who cannot be contacted directly.
+as·set		A useful or valuable thing, person, or quality.
+re·quire		Need for a particular purpose.
+class		A set or category of things having some property or attribute in common and differentiated from others by kind, type, or quality.
+con·tent		In a state of peaceful happiness.
+end		A final part of something, especially a period of time, an activity, or a story.
+gen·er·ate		Cause (something, especially an emotion or situation) to arise or come about.
+base		The lowest part or edge of something, especially the part on which it rests or is supported.
+head		The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.
+cache		A collection of items of the same type stored in a hidden or inaccessible place.
+prob·lem		A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.
+cre·ate		Bring (something) into existence.
+min·i·mum		The least or smallest amount or quantity possible, attainable, or required.
+def·i·ni·tion		A statement of the exact meaning of a word, especially in a dictionary.
+back·ground		The area or scenery behind the main object of contemplation, especially when perceived as a framework for it.
+in		Expressing the situation of something that is or appears to be enclosed or surrounded by something else.
+un·tracked		(of land) not previously explored or traversed; without a path or tracks.
+specs		A pair of spectacles.
+prod·uct		An article or substance that is manufactured or refined for sale.
+path		A way or track laid down for walking or made by continual treading.
+improved		Having become or been made better.
+git		An unpleasant or contemptible person.
+make		Form (something) by putting parts together or combining substances; construct; create.
+of		Expressing the relationship between a part and a whole.
+re·mote		(of a place) situated far from the main centers of population; distant.
+may		Expressing possibility.
+bulma		Bulmak eylemi.
+designed		Planned or conceived in detail or for a specific purpose.
+ed·u·ca·tion		The process of receiving or giving systematic instruction, especially at a school or university.
+your		Belonging to or associated with the person or people that the speaker is addressing.
+gain		Obtain or secure (something desired, favorable, or profitable).
+two		Equivalent to the sum of one and one; one less than three; 2.
+qual·i·ty		The standard of something as measured against other things of a similar kind; the degree of excellence of something.
+clear		Easy to perceive, understand, or interpret.
+emp·ty		Containing nothing; not filled or occupied.
+size		The relative extent of something; a thing's overall dimensions or magnitude; how big something is.
+then		At that time; at the time in question.
+pa·tron·age		The support given by a patron.
+tip		The pointed or rounded end or extremity of something slender or tapering.
+map·ping		An operation that associates each element of a given set (the domain) with one or more elements of a second set (the range).
+take		Lay hold of (something) with one's hands; reach for and hold.
+hor·i·zon·tal		Parallel to the plane of the horizon; at right angles to the vertical.
+rep·re·sen·ta·tion		The action of speaking or acting on behalf of someone or the state of being so represented.
+per·spec·tive		The art of drawing solid objects on a two-dimensional surface so as to give the right impression of their height, width, depth, and position in relation to each other when viewed from a particular point.
+vis·u·al		Relating to seeing or sight.
+pro·gram·ming		The process or activity of writing computer programs.
+queue		Take one's place in a queue.
+job		A paid position of regular employment.
+run		Move at a speed faster than a walk, never having both or all the feet on the ground at the same time.
+sched·ule		Arrange or plan (an event) to take place at a particular time.
+sup·port		Bear all or part of the weight of; hold up.
+note		A brief record of facts, topics, or thoughts, written down as an aid to memory.
+can·not		Can not.
+pri·or·i·ty		The fact or condition of being regarded or treated as more important.
+there·fore		For that reason; consequently.
+are		Second person singular present and first, second, third person plural present of be.
+from		Indicating the point in space at which a journey, motion, or action starts.
+ar·gu·ment		An exchange of diverging or opposite views, typically a heated or angry one.
+which		Asking for information specifying one or more people or things from a definite set.
+was		First and third person singular past of be.
+like		Used with reference to a person or thing of the same kind as another.
+dis·like		Feel distaste for or hostility toward.
+change		Make (someone or something) different; alter or modify.
+web·site		A set of related web pages located under a single domain name, typically produced by a single person or organization.
+use		Take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result; employ.
+start-up		The action or process of setting something in motion.
+af·fect·ed		Influenced or touched by an external factor.
+and		Used to connect words of the same part of speech, clauses, or sentences, that are to be taken jointly.
+in·cre·men·tal		Relating to or denoting an increase or addition, especially one of a series on a fixed scale.
+up		Toward a higher place or position.
+work·ing		Having paid employment.
+known		Past participle of know.
+ru·by		A precious stone consisting of corundum in color varieties varying from deep crimson or purple to pale rose.
+com·mand		Give an authoritative order.
+sty·lus		A hard point, typically of diamond or sapphire, following a groove in a record and transmitting the recorded sound for reproduction.
+need		Require (something) because it is essential or very important.
+place		A particular position or point in space.
+en·crypt		Convert (information or data) into a cipher or code, especially to prevent unauthorized access.
+cre·den·tial		A qualification, achievement, personal quality, or aspect of a person's background, typically when used to indicate that they are suitable for something.
+all		Used to refer to the whole quantity or extent of a particular group or thing.
+hold·ing		An area of land held by lease.
+ex·pect		Regard (something) as likely to happen.
+com·mit·ment		The state or quality of being dedicated to a cause, activity, etc.
+bar·rel		Drive or move in a way that is so fast as to almost be out of control.
+hitch		Move (something) into a different position with a jerk.
+ed·i·fice		A building, especially a large, imposing one.
+par·a·pet		A low protective wall along the edge of a roof, bridge, or balcony.
+ar·a·ble		(of land) used or suitable for growing crops.
+lounge		Lie, sit, or stand in a relaxed or lazy way.
+creek		A stream, brook, or minor tributary of a river.
+clum·sy		Awkward in movement or in handling things.
+sol·dier·ly		Having or denoting the qualities associated with soldiers.
+o·be·di·ence		Compliance with an order, request, or law or submission to another's authority.
+dis·ap·point·ment		Sadness or displeasure caused by the nonfulfillment of one's hopes or expectations.
+con·sole		Comfort (someone) at a time of grief or disappointment.
+a·li·as		A false or assumed identity.
+op·tion		A thing that is or may be chosen.
+string		Material consisting of threads of cotton, hemp, or other material twisted together to form a thin length.
+ran·dom·i·za·tion		The arrangement of a set of items, people, etc. in an unpredictable, unsystematic, or random order.
+when		At what time.
+un·der·ly·ing		Present participle of underlie.
+pend·ing		Awaiting decision or settlement.
+con·tain		Have or hold (someone or something) within.
+gen·u·ine·ly		In a truthful way.
+bug·a·boo		An object of fear or alarm; a bugbear.
+mod·ule		Each of a set of standardized parts or independent units that can be used to construct a more complex structure, such as an item of furniture or a building.
+block		A large solid piece of hard material, especially rock, stone, or wood, typically with flat surfaces on each side.
+re·place·a·ble		Able to be replaced.
+in·clude		Comprise or contain as part of a whole.
+awe·some		Extremely impressive or daunting; inspiring great admiration, apprehension, or fear.
+com·mit		Carry out or perpetrate (a mistake, crime, or immoral act).
+ful·mi·nant		(of a disease or symptom) severe and sudden in onset.
+coun·te·nance		A person's face or facial expression.
+stew·ard		A person who looks after the passengers on a ship, aircraft, or train and brings them meals.
+stew·ard·ship		The job of supervising or taking care of something, such as an organization or property.
+ex·claim		Cry out suddenly, especially in surprise, anger, or pain.
+prov·en·der		Animal fodder.
+scow		A wide-beamed sailing dinghy.
+ear·nest·ly		With sincere and intense conviction; seriously.
+mas·ter		A man who has people working for him, especially servants or slaves.
+new		Not existing before; made, introduced, or discovered recently or now for the first time.
+shield		A broad piece of metal or another suitable material, held by straps or a handle attached on one side, used as a protection against blows or missiles.
+porch		A covered shelter projecting in front of the entrance of a building.
+in·junc·tion		An authoritative warning or order.
+up·date		Make (something) more modern or up to date.
+fetch		Go for and then bring back (someone or something) for someone.
+branch		A part of a tree which grows out from the trunk or from a bough.
+sec·tion		Any of the more or less distinct parts into which something is or may be divided or from which it is made up.
+URL		The address of a web page.
+op·tion·al		Available to be chosen but not obligatory.
+side		A position to the left or right of an object, place, or central point.
+ex·ten·sive		Covering or affecting a large area.
+es·tab·lish·ment		The action of establishing something or being established.
+par·lor		A sitting room in a private house.
+hum·bug		Deceptive or false talk or behavior.
+wreck		The destruction of a ship at sea; a shipwreck.
+loft·y		Of imposing height.
+po·ten·tate		A monarch or ruler, especially an autocratic one.
+musk·rat		A large semiaquatic North American rodent with a musky smell, valued for its fur.
+per·plexed		Completely baffled; very puzzled.
+would		Past of will, in various senses.
+ruffled		(of a person's hair) disarranged.
+as·sort·ed		Of various sorts put together; miscellaneous.
+lot		A large number or amount; a great deal.
+math		Mathematics.
+pi		The sixteenth letter of the Greek alphabet ( Π, π ), transliterated as ‘p.’.
+throw		Propel (something) with force through the air by a movement of the arm and hand.
+load		A heavy or bulky thing that is being carried or is about to be carried.
+You·Tube		Upload a video of (someone or something) to the video-sharing website YouTube.
+spoiled		(of a person, especially a child) harmed in character by being treated too leniently or indulgently.
+em·bank·ment		A wall or bank of earth or stone built to prevent a river flooding an area.
+ebb		The movement of the tide out to sea.
+disconcerted		Unsettled or confused.
+bur·den		A load, typically a heavy one.
+ram·rod		A rod for ramming down the charge of a muzzleloading firearm.
+rat·tle		Make or cause to make a rapid succession of short, sharp knocking sounds, typically as a result of shaking and striking repeatedly against a hard surface or object.
+dig·ni·fied		Having or showing a composed or serious manner that is worthy of respect.
+met·tle		A person's ability to cope well with difficulties or to face a demanding situation in a spirited and resilient way.
+er·rand		A short journey undertaken in order to deliver or collect something, especially on someone else's behalf.
+turn·pike		An expressway, especially one on which a toll is charged.
+stout		(of a person) somewhat fat or of heavy build.
+de·spond		Become dejected and lose confidence.
+res·o·lute		Admirably purposeful, determined, and unwavering.
+stanch		Stop or restrict (a flow of blood) from a wound.
+whang		Make or produce a resonant noise.
+phoe·nix		(in classical mythology) a unique bird that lived for five or six centuries in the Arabian desert, after this time burning itself on a funeral pyre and rising from the ashes with renewed youth to live through another cycle.
+horse		A large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads.
+throng		(of a crowd) fill or be present in (a place or area).
+hoof		The horny part of the foot of an ungulate animal, especially a horse.
+run·a·way		A person who has run away, especially from their family or an institution.
+text		A book or other written or printed work, regarded in terms of its content rather than its physical form.
+re·mem·brance		The action of remembering something.
+whis·per·er		A person who whispers.
+bri·dle		The headgear used to control a horse, consisting of buckled straps to which a bit and reins are attached.
+fet·lock		The joint of a horse's or other quadruped's leg between the cannon bone and the pastern.
+stur·dy		(of a person or their body) strongly and solidly built.
+blaze		Burn fiercely or brightly.
+not		Used with an auxiliary verb or “be” to form the negative.
+con·temp·tu·ous		Showing contempt; scornful.
+su·mac		A shrub or small tree of the cashew family, with compound leaves, fruits in conical clusters, and bright autumn colors.
+dire·ful		Extremely bad; dreadful.
+ef·flu·vi·um		An unpleasant or harmful odor, secretion, or discharge.
+twig		A slender woody shoot growing from a branch or stem of a tree or shrub.
+stork		A tall long-legged wading bird with a long heavy bill and typically with white and black plumage.
+hum·mock		A hillock, knoll, or mound.
+black·snake		A long black American racer, especially the common Northern blacksnake ( Coluber constrictor constrictor ), the adult of which is a patternless black, above and below.
+burr		A whirring sound, such as a phone ringing tone or the sound of cogs turning.
+nip		Pinch, squeeze, or bite sharply.
+blub·ber		Sob noisily and uncontrollably.
+mead·ow		A piece of grassland, especially one used for hay.
+tre·men·dous		Very great in amount, scale, or intensity.
+scrunch		Make a loud crunching noise.
+heft		Lift or carry (something heavy).
+an·ni·hi·late		Destroy utterly; obliterate.
+stream·ing		A method of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to start while the rest of the data is still being received.
+up·load		Transfer (data) from one computer to another, typically to one that is larger or remote from the user or functioning as a server.
+more		A greater or additional amount or degree of.
+were		Second person singular past, plural past, and past subjunctive of be.
+va·lise		A small traveling bag or suitcase.
+cel·lar		A room below ground level in a house, typically one used for storing wine or coal.
+dul·cet		(especially of sound) sweet and soothing.
+swamp		An area of low-lying, uncultivated ground where water collects; a bog or marsh.
+ce·dar		Any of a number of conifers that typically yield fragrant, durable timber.
+skir·mish		An episode of irregular or unpremeditated fighting, especially between small or outlying parts of armies or fleets.
+peg		A short cylindrical piece of wood, metal, or plastic, typically tapered at one end, that is used for holding things together, hanging things on, or marking a position.
+de·ri·sively		In a manner expressing contempt or ridicule.
+stead·fast·ly		In a resolutely or dutifully firm and unwavering manner.
+res·o·lute·ly		In an admirably purposeful, determined, and unwavering manner.
+im·pu·dent		Not showing due respect for another person; impertinent.
+out·ra·geous		Shockingly bad or excessive.
+bland		Lacking strong features or characteristics and therefore uninteresting.
+chap		(of the skin) become cracked, rough, or sore, especially through exposure to wind or cold weather.
+saun·ter		Walk in a slow, relaxed manner, without hurry or effort.
+aug·ment		Make (something) greater by adding to it; increase.
+it		Used to refer to a thing previously mentioned or easily identified.
+trav·erse		Travel across or through.
+source		A place, person, or thing from which something comes or can be obtained.
+des·ti·na·tion		The place to which someone or something is going or being sent.
+pad·ding		Soft material such as foam or cloth used to pad or stuff something.
+val·ue		The regard that something is held to deserve; the importance, worth, or usefulness of something.
+an·oth·er		Used to refer to an additional person or thing of the same type as one already mentioned or known about; one more; a further.
+style		A manner of doing something.
+au·then·ti·ca·tion		The process or action of proving or showing something to be true, genuine, or valid.
+re·sponse		A verbal or written answer.
+re·turn		Come or go back to a place or person.
+head·er		A shot or pass made with the head.
+prox·y		The authority to represent someone else, especially in voting.
+time out		Time for rest or recreation away from one's usual work or studies.
+sec·ond		Constituting number two in a sequence; coming after the first in time or order; 2nd.
+num·ber		An arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification.
+far·a·day		A unit of electric charge equal to Faraday's constant.
+re·proach		Address (someone) in such a way as to express disapproval or disappointment.
+treach·er·y		Betrayal of trust; deceptive action or nature.
+op·pres·sive		Unjustly inflicting hardship and constraint, especially on a minority or other subordinate group.
+bour·geois		Of or characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes.
+ra·tion·al·ism		A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.
+Pu·ri·tan		A member of a group of English Protestants of the late 16th and 17th centuries who regarded the Reformation of the Church of England under Elizabeth as incomplete and sought to simplify and regulate forms of worship.
+lim·it		A point or level beyond which something does not or may not extend or pass.
+bland·ly		In an uninteresting manner that lacks strong emotion, features, or characteristics.
+pru·dent		Acting with or showing care and thought for the future.
+toot		Sound (a horn or similar instrument) with a short, sharp sound.
+dis·po·si·tion		A person's inherent qualities of mind and character.
+sneer		A contemptuous or mocking smile, remark, or tone.
+pal·pa·ble		(of a feeling or atmosphere) so intense as to seem almost tangible.
+tan·gi·ble		Perceptible by touch.
+hos·tile		Unfriendly; antagonistic.
+ap·a·thet·ic		Showing or feeling no interest, enthusiasm, or concern.
+pro·té·gé		A person who is guided and supported by an older and more experienced or influential person.
+fo·cus		(of a person or their eyes) adapt to the prevailing level of light and become able to see clearly.
