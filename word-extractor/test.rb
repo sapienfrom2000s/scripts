@@ -5,7 +5,9 @@ def test(string)
   boolean = %w(recoverable content faraday).all? do |word|
        words.include?(word)
   end
-  puts boolean
+  (boolean and '.'.colorize(:green)) or
+    "Expected did not match actual"
 end
 
-test(File.read('DictionaryAnywhere.txt'))
+puts test(File.read('DictionaryAnywhere.txt'))
+
