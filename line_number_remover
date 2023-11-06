@@ -11,10 +11,9 @@ def line_remover(file_location)
   mutated_content
 end
 
-def main
-  puts 'Enter the full path of file without double quotes'
+if __FILE__ == $PROGRAM_NAME
+  puts 'Enter the full path without quotes'
   file_location = gets.chomp
   puts line_remover(file_location)
 end
 
-main
