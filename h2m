@@ -1,11 +1,9 @@
 #!/usr/bin/env ruby
 
-require 'colorize'
-
 puts('Enter hash')
 hash = gets.strip
 magnet = "magnet:?xt=urn:btih:#{hash}"
 puts magnet
 system("echo #{magnet} | xclip -selection clipboard")
-puts 'magnet link copied to clipboard'.colorize(:green)
+puts 'magnet link copied to clipboard'
 
