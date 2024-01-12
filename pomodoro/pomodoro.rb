@@ -1,22 +1,18 @@
-require 'tty-prompt'
 require_relative './songs.rb'
+require 'tty-prompt'
 
-default_message = 'Time is up'
-default_time = 3600
+prompt = TTY::Prompt.new
 
-puts 'Enter time in seconds'
-time = gets.chomp 
-time = time.empty? ? default_time : time
+prompt = prompt.collect do
+  key(:time).ask('Time in seconds?', convert: :int, default: 3600)
 
-puts 'Enter the message'
-message = gets.chomp
-message = message.empty? ? default_message : message
+  key(:message).ask('Message?', default: 'Time is up')
 
-song_prompt = prompt = TTY::Prompt.new
-song_prompt.yes? 'Do you want music to be played at the end of timer?'
+  key(:music).yes? 'Do you want music to be played at the end of timer?'
+end
 
-puts "Pomodoro timer for #{time}s activated"
+puts "Pomodoro timer for #{prompt[:time]}s activated"
 
-system("sleep #{time} && notify-send --expire-time=0 '#{message}' &")
-system("sleep #{time} && mpv https://www.youtube.com/watch?v=#{songss.values.sample} &") if song_prompt
+system("sleep #{prompt[:time]} && notify-send --expire-time=0 '#{prompt[:message]}' &")
+system("sleep #{prompt[:time]} && mpv https://www.youtube.com/watch?v=#{songss.values.sample} &") if prompt[:music]
 
