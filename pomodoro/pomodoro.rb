@@ -14,5 +14,5 @@ end
 puts "Pomodoro timer for #{prompt[:time]}s activated"
 
 system("sleep #{prompt[:time]} && notify-send --expire-time=0 '#{prompt[:message]}' &")
-system("sleep #{prompt[:time]} && mpv https://www.youtube.com/watch?v=#{songss.values.sample} &") if prompt[:music]
+system("sleep #{prompt[:time]} && mpv https://www.youtube.com/watch?v=#{songss.values.sample} --no-video &") if prompt[:music]
 

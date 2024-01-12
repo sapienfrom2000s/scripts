@@ -2,6 +2,7 @@ Requirements:
 
   libnotify-bin -> for displaying notification\
   mpv -> for playing music\
+  youtube-dl -> saves bandwith\
   bundler -> to install gems\
   ruby -> program is written in it
 
